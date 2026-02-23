@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎓 CSE Student | 💻 Passionate about Web Development | 🧠 DSA & Problem Solving | 🚀 Aspiring Software Engineer
+🎓 CSE Student | 💻 Passionate about Web Development |
+🧠 DSA & Problem Solving | 🚀 Aspiring Software Engineer
 
 
 ## 🌐 Socials:
