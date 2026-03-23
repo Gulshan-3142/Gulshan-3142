@@ -11,7 +11,7 @@ int main()
         for (int j = 0; j < r; j++)
         {
 
-            scanf("%d", &arr[i][j]);
+            scanf("%d",&arr[i][j]);
         }
     }
 
