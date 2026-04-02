@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Computer Science fundamentals**, **problem solving**, and **software development basics**
 - 👯 I’m looking to collaborate on **beginner-friendly open-source and mini projects**
 - 🤝 I’m looking for help with **DSA**, **project building**, and **writing clean code**
-- 💬 Ask me about **C, C++**, and beginner coding questions
+- 💬 Ask me about **C, C++** coding questions
 - ⚡ Fun fact: I enjoy understanding **how code works behind the scenes**
 
 ---
